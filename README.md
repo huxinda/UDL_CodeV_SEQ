@@ -15,7 +15,7 @@ Notepad++ User Defined Language for CodeV Macro-PLUS sequence
   
   ---
 
-There will be two version (see **screenshots**):
+There will be two version (see **screenshots**, http://goo.gl/oIxhFq):
 
 1. Light: **_UDL_CodeV_SolarizedLight.xml_**  (updated on May-05-2014)
 
