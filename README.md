@@ -12,6 +12,8 @@ Notepad++ User Defined Language for CodeV Macro-PLUS sequence
   --- _color-theme balanced for different kind of sequences (general macros, optimizations, user-defined functions, etc)_
 
   --- _keyword auto-completion and predefined function calltips (Updated on May-08-2014)_
+
+  View an animation of above features, checkout the [**demo animation**](demo.gif)
   
   ---
 
